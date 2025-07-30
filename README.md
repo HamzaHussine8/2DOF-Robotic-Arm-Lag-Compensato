@@ -80,11 +80,6 @@ This project implements a control system for a 2-degree-of-freedom (2-DOF) robot
 ## 📁 Files Included
 
 - `hamza_modern_project.slx`: Simulink model
-- PDFs:
-  - `with_comansating.pdf`
-  - `without_compansating.pdf`
-  - (others show results for base and end-effector with/without compensator)
-
 ---
 
 ## 🛠 Tools Used
